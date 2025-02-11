@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "mute-bush-f791",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3d79a2d3-0779-4861-8969-b644f60c4a89",
+      "database_name": "raspy-wave-188b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
